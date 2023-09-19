@@ -1,1 +1,3 @@
-# Meet_Jani_8953679
+Name: Meet Jani
+Project Title: Lab 3
+Student Id: 8953679
